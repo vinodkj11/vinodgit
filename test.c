@@ -2,7 +2,7 @@
 
 void func1()
 {
-	printf("It is called from %s \n",__func__);
+	printf("I am in %s \n",__func__);
 }
 void func2()
 {
