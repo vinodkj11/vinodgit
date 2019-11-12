@@ -15,7 +15,6 @@ int main(void)
 	//func1 call
 	func1();
 	func2();
-	printf("I am done with it\n");
 	return 0;
 }
 
